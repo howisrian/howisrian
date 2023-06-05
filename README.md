@@ -6,7 +6,7 @@
 
 ![Rian Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=howisrian&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howisrian&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howisrian&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I currently study
 
